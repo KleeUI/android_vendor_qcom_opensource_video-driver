@@ -15,7 +15,7 @@
 #endif
 #include <linux/of_address.h>
 #include <linux/firmware.h>
-#include <linux/firmware/qcom/qcom_scm.h>
+#include <linux/qcom_scm.h>
 #include <linux/soc/qcom/mdt_loader.h>
 #include <linux/iopoll.h>
 
